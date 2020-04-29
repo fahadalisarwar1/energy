@@ -24,6 +24,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bDoPb0daXRCyk9ubtXQ5SbRvXO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588176001544</updated>
-      <workItem from="1588176013931" duration="2076000" />
+      <workItem from="1588176013931" duration="2330000" />
     </task>
     <servers />
   </component>
@@ -53,9 +54,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2381" y="182" key="SettingsEditor" timestamp="1588176110167">
+    <state x="2381" y="182" key="SettingsEditor" timestamp="1588178345979">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2381" y="182" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588176110167" />
+    <state x="2381" y="182" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588178345979" />
   </component>
 </project>
