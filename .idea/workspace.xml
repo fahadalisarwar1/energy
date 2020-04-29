@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27aed461-972b-4d35-badd-6af47095519c" name="Default Changelist" comment="" />
+    <list default="true" id="27aed461-972b-4d35-badd-6af47095519c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588176001544</updated>
-      <workItem from="1588176013931" duration="2330000" />
+      <workItem from="1588176013931" duration="2574000" />
     </task>
     <servers />
   </component>
