@@ -15,3 +15,7 @@ if __name__ == "__main__":
     print(df.head())
     df.info()
 
+    df.describe()
+
+
+
