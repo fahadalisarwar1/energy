@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27aed461-972b-4d35-badd-6af47095519c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588176001544</updated>
-      <workItem from="1588176013931" duration="3296000" />
+      <workItem from="1588176013931" duration="3856000" />
     </task>
     <servers />
   </component>
