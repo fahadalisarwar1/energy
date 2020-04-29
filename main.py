@@ -8,6 +8,8 @@ if __name__ == "__main__":
     len(header)
 
     df = pd.read_csv("data.csv")
+
+    
     df.columns = header
 
     print(df.head())
