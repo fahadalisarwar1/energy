@@ -60,21 +60,21 @@ if __name__ == "__main__":
     # lights are off most of the time, so we are going to ignore them
     features.drop('lights_Wh', axis=1, inplace=True)
 
-    # lets do data visualization
+    #lets do data visualization
+
+    import matplotlib.pyplot as plt
+    # plot for internal temperatures
+    plt.figure()
+    for i, t in enumerate(house_temp):
+        plt.subplot(3, 3, i+1)
+        plt.hist(features[t], bins=25)
+        plt.title(t)
+
+    plt.show()
     #
-    # import matplotlib.pyplot as plt
-    # # plot for internal temperatures
-    # plt.figure()
-    # for i, t in enumerate(house_temp):
-    #     plt.subplot(3, 3, i+1)
-    #     plt.hist(features[t], bins=25)
-    #     plt.title(t)
-    #
-    # plt.show()
-    #
-    # # Observation
-    # # All observations mostly follow normal distribution except
-    # # T9 which is the parents rooms
+    # Observation
+    # All observations mostly follow normal distribution except
+    # T9 which is the parents rooms
     #
     # plt.figure()
     # # plot for internal humidity
