@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27aed461-972b-4d35-badd-6af47095519c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -21,11 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="3b5fbe85-6286-4ec9-aa7b-187a91332b59">
-    <option name="files">
-      <option value="analysis.ipynb" />
-    </option>
-  </component>
+  <component name="JupyterTrust" id="3b5fbe85-6286-4ec9-aa7b-187a91332b59" />
   <component name="ProjectId" id="1bDoPb0daXRCyk9ubtXQ5SbRvXO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,7 +47,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588176001544</updated>
-      <workItem from="1588176013931" duration="3856000" />
+      <workItem from="1588176013931" duration="5552000" />
+      <workItem from="1588245085198" duration="3430000" />
+      <workItem from="1588248536202" duration="8662000" />
     </task>
     <servers />
   </component>
@@ -57,9 +57,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2381" y="182" key="SettingsEditor" timestamp="1588178345979">
+    <state x="2381" y="182" key="SettingsEditor" timestamp="1588248504298">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2381" y="182" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588178345979" />
+    <state x="2381" y="182" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588248504298" />
   </component>
 </project>
